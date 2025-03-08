@@ -1,0 +1,36 @@
+    Quantum Computing Models:
+        Trapped Ions:
+            "High-fidelity universal gate set for 9Be+ ion qubits" (https://arxiv.org/abs/1802.02833) - Demonstrates a high-fidelity universal gate set for trapped-ion qubits, essential for building quantum computers.
+        Superconducting Qubits:
+            "Coherence properties of a single-charge qubit" (https://arxiv.org/abs/cond-mat/0402441) - Investigates the coherence properties of superconducting qubits, crucial for their use in quantum computation.
+        Photonic Qubits:
+            "Quantum interference of photons from remote quantum dots" (https://arxiv.org/abs/1203.2190) - Demonstrates quantum interference of photons from remote quantum dots, a key step towards photonic quantum computing.
+        Neutral Atoms:
+            "Quantum gas microscopy of an attractive Fermi-Hubbard system" (https://arxiv.org/abs/1509.02213) - Uses quantum gas microscopy to study neutral atom systems, relevant for quantum simulation and computation.
+        Topological Qubits:
+            "Non-Abelian anyons and topological quantum computation" (https://arxiv.org/abs/0707.1889) - Reviews the theoretical foundations of topological quantum computing, a promising approach for fault-tolerant quantum computation.
+
+    Quantum Computing in Finance:
+        "Quantum Amplitude Estimation Algorithm for Finance: Examples in Option Pricing and Portfolio Optimization" (https://arxiv.org/abs/2308.02677) - Explores the application of the Quantum Amplitude Estimation algorithm for option pricing and portfolio optimization.
+
+    Quantum Machine Learning:
+        "Quantum machine learning for electronic structure calculations" (https://arxiv.org/abs/2004.04174) - Investigates the use of quantum machine learning for electronic structure calculations, a key application in materials science.
+
+    Quantum Simulations:
+        "Quantum simulations with trapped ions" (https://arxiv.org/abs/1209.3086) - Reviews the use of trapped ions for quantum simulations, a powerful tool for understanding complex quantum systems.
+
+    Quantum Sensing and Metrology:
+        "Quantum-enhanced sensing based on entanglement" (https://arxiv.org/abs/1401.4356) - Discusses how entanglement can enhance the precision of quantum sensors.
+
+    Quantum Communications and Cryptography:
+        "Quantum cryptography: Public key distribution and coin tossing" (https://arxiv.org/abs/quant-ph/0502027) - A seminal paper on quantum key distribution, a fundamental protocol for secure quantum communication.
+
+    Quantum Materials Discovery:
+        "Quantum computing for materials discovery" (https://arxiv.org/abs/2204.06401) - Explores the use of quantum computing for materials discovery, including the design of new materials with desired properties.
+
+    Quantum Computing for Optimization Problems:
+        "Quantum algorithms for combinatorial optimization problems" (https://arxiv.org/abs/1403.5810) - Reviews quantum algorithms for solving combinatorial optimization problems, a key application of quantum computing.
+
+    Development of Quantum Software and Tools:
+        "Qiskit: An Open-source Framework for Quantum Computing" (https://arxiv.org/abs/1908.03665) - Introduces Qiskit, an open-source framework for quantum computing that provides tools for designing, simulating, and executing quantum circuits.
+

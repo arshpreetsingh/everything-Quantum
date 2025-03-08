@@ -1,0 +1,7 @@
+
+# For tensorflow:
+sudo docker run --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 -it --rm nvcr.io/nvidia/tensorflow:25.02-tf2-py3
+
+# For Cuda Quantum:
+
+sudo docker run --gpus all -it nvcr.io/nvidia/quantum/cuda-quantum:cu12-0.9.0
